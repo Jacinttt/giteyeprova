@@ -1,1 +1,3 @@
 aquest es el fitxer bo i no es te que esborrar
+
+Prova test afegir txt al document
